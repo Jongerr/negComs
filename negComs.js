@@ -1,0 +1,1 @@
+// negComs.js logs a given reddit user's top negative comments
